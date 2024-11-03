@@ -1,4 +1,6 @@
-# ganbaru
+# Ganbaru
+
+gamified to do list
 
 To install dependencies:
 
