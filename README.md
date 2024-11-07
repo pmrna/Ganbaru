@@ -1,3 +1,5 @@
+**Note:** This project is currently a work in progress.
+
 # Ganbaru
 
 gamified to do list
