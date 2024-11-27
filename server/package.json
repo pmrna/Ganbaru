@@ -11,12 +11,16 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "class-validator": "^0.14.1",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "pg": "^8.13.1",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^0.3.20"
   },
   "scripts": {
-    "dev": "bun --watch --hot run index.ts",
+    "dev": "bun --watch --hot run src/index.ts",
     "start": "bun run index.ts"
   }
 }
